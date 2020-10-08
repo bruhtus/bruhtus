@@ -1,3 +1,3 @@
 > I made silly things 👌
 
-[Socials](https://solo.to/bruhtus)
+Social media? [¯\_(ツ)_/¯](https://solo.to/bruhtus)
