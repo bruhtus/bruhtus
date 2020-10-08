@@ -1,3 +1,3 @@
-> I make silly things 👌
+> I made silly things 👌
 
 [Socials](https://solo.to/bruhtus)
