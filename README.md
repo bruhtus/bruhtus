@@ -1,4 +1,4 @@
-> I go normal from time to time 👌, "Social media?" [¯\_(ツ)_/¯](https://solo.to/bruhtus)
+> i go normal from time to time 👌, "social media?" [¯\_(ツ)_/¯](https://solo.to/bruhtus)
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true">
 
