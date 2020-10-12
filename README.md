@@ -2,7 +2,7 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true">
 
-<a href="https://manjaro.org/download/#i3">
+<a href="https://manjaro.org/">
 <img src="https://img.shields.io/badge/platform-%20linux-blue"
 alt="Platform: linux" />
 <a/>
