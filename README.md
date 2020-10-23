@@ -7,11 +7,11 @@
 alt="Platform: linux" />
 <a/>
 
+<a href="http://vim.liuchengxu.org/">
+<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-space~vim-blue" alt="Editor: space-vim">
+<a/>
+
 <a href="https://github.com/bruhtus">
 <img src="https://visitor-badge.glitch.me/badge?page_id=bruhtus.visitor-badge"
 alt="Visitor" />
-<a/>
-
-<a href="http://vim.liuchengxu.org/">
-<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-space~vim-blue" alt="Editor: space-vim">
 <a/>
