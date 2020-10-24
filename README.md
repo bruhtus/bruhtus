@@ -1,4 +1,4 @@
-<img align="right" height="150" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
+<img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
 
 > i go normal from time to time 👌, "social media?" [¯\_(ツ)_/¯](https://solo.to/bruhtus)
 
