@@ -1,7 +1,5 @@
 > i go normal from time to time 👌, "social media?" [¯\_(ツ)_/¯](https://solo.to/bruhtus)
 
-<img align="right" height=60 alt="GIF" src="wee.gif" />
-
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true">
 
 <a href="https://manjaro.org/">
