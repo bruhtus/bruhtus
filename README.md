@@ -3,11 +3,11 @@
 > i go normal from time to time 👌, "social media?" [¯\_(ツ)_/¯](https://solo.to/bruhtus)
 
 <a href="https://github.com/bruhtus/github-readme-stats">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=graywhite">
+  <img align="right" width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&theme=graywhite">
 </a>
 
 <a href="https://github.com/bruhtus/github-readme-stats">
-  <img align="right" width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&theme=graywhite">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=graywhite">
 </a>
 
 <a href="https://manjaro.org/">
