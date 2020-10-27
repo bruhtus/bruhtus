@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/bruhtus/github-readme-stats">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&theme=graywhite">
+  <img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&theme=graywhite">
 </a>
 
 <a href="https://manjaro.org/">
