@@ -3,7 +3,7 @@
 > i go normal from time to time 👌, "social media?" [¯\_(ツ)_/¯](https://solo.to/bruhtus)
 
 <a href="https://github.com/bruhtus/github-readme-stats">
-  <img align="right" width="400" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&theme=graywhite">
+  <img align="right" width="400" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&theme=graywhite">
 </a>
 
 <a href="https://github.com/bruhtus/github-readme-stats">
