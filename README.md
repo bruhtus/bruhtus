@@ -9,8 +9,9 @@
 <a href="https://github.com/bruhtus/github-readme-stats">
 <img align="right" width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&theme=graywhite" />
 </a>
-<br>
 
+
+<p>
 <a href="https://manjaro.org/">
 <img src="https://img.shields.io/badge/platform-%20linux-blue"
 alt="Platform: linux" />
@@ -24,3 +25,4 @@ alt="Platform: linux" />
 <img src="https://visitor-badge.glitch.me/badge?page_id=bruhtus.visitor-badge"
 alt="Visitor" />
 <a/>
+</p>
