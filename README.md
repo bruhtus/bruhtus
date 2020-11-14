@@ -23,3 +23,5 @@ alt="Platform: linux" />
 <img src="https://visitor-badge.glitch.me/badge?page_id=bruhtus.visitor-badge"
 alt="Visitor" />
 <a/>
+
+<!-- [![GitHub Game of Life](https://github4life.herokuapp.com/bruhtus.gif?z=6)](https://github4life.herokuapp.com/bruhtus) -->
