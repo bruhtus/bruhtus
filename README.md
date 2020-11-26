@@ -6,7 +6,7 @@
 
 > i go normal from time to time 👌 <br>
 > Q: social media? <br>
-> A: [¯\_(ツ)_/¯](https://solo.to/bruhtus)
+> A: [¯\_(ツ)_/¯](https://linktr.ee/bruhtus)
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=22a0f4&icon_color=22a0f4&text_color=707070&count_private=true&theme=default" />
 
