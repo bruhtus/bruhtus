@@ -13,7 +13,7 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=22a0f4&icon_color=22a0f4&text_color=707070&count_private=true&theme=default" />
 
 <a href="https://manjaro.org/">
-<img src="https://img.shields.io/badge/platform-%20GNU+linux-blue"
+<img src="https://img.shields.io/badge/platform-%20GNU/Linux-blue"
 alt="Platform: linux" />
 <a/>
 
