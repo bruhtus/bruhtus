@@ -1,4 +1,4 @@
-<img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
+<!-- <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" /> -->
 
 <!-- <a href="https://github.com/bruhtus/github-readme-stats">
 <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&theme=graywhite" />
