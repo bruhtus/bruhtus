@@ -10,7 +10,7 @@
 
 `still in transition from computer vision to data science`
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=41b883&icon_color=b58900&text_color=2aa889&bg_color=00000000&count_private=true&theme=default" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=81a1c1&icon_color=81a1c1&text_color=2aa889&bg_color=00000000&count_private=true&theme=default" />
 
 <a href="https://manjaro.org/">
 <img src="https://img.shields.io/badge/platform-%20GNU/Linux-blue"
