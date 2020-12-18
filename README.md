@@ -3,6 +3,14 @@
 <!-- <a href="https://github.com/bruhtus/github-readme-stats">
 <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&theme=graywhite" />
 </a> -->
+<!-- ```python
+    __               __    __            
+   / /_  _______  __/ /_  / /___  _______
+  / __ \/ ___/ / / / __ \/ __/ / / / ___/
+ / /_/ / /  / /_/ / / / / /_/ /_/ (__  ) 
+/_.___/_/   \__,_/_/ /_/\__/\__,_/____/  
+                                         
+``` -->
 
 > i go normal from time to time 👌 <br>
 > Q: social media? <br>
