@@ -25,8 +25,8 @@
 alt="Platform: linux" />
 <a/>
 
-<a href="http://vim.liuchengxu.org/">
-<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-space~vim-blue" alt="Editor: space-vim">
+<a href="https://www.vim.org/about.php">
+<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-vim-blue" alt="Editor: vim">
 <a/>
 
 <a href="https://github.com/bruhtus">
