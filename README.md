@@ -20,12 +20,12 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=81a1c1&icon_color=81a1c1&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default" />
 
-<a href="https://manjaro.org/">
+<a href="https://manjaro.org/" target="_blank">
 <img src="https://img.shields.io/badge/platform-%20GNU/Linux-blue"
 alt="Platform: linux" />
 <a/>
 
-<a href="https://www.vim.org/about.php">
+<a href="https://www.vim.org/about.php" target="_blank">
 <img src="https://img.shields.io/badge/%F0%9F%94%A7editor-vim-blue" alt="Editor: vim">
 <a/>
 
