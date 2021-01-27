@@ -15,7 +15,7 @@
 
 `everything in my repo comes bundled with failure`
 
-<img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default" />
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default" />
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=81a1c1&icon_color=81a1c1&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default" />
 
