@@ -13,7 +13,7 @@
 > Q: social media? <br>
 > A: [¯\_(ツ)_/¯](https://linktr.ee/bruhtus)
 
-`everything in my repo comes bundled with failure`
+`everything in my repo comes bundled with failures`
 
 <a href="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=81a1c1&icon_color=81a1c1&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=81a1c1&icon_color=81a1c1&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default" />
@@ -28,8 +28,8 @@
 alt="Platform: linux" />
 <a/>
 
-<a href="https://www.vim.org/about.php">
-<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-vim-blue" alt="Editor: vim">
+<a href="https://neovim.io/doc/user/vim_diff.html#vim-differences">
+<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-nvim-blue" alt="Editor: nvim">
 <a/>
 
 <a href="https://github.com/bruhtus">
