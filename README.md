@@ -10,8 +10,8 @@
 ``` -->
 
 > i go normal from time to time 👌 <br>
-> Q: social media? <br>
-> A: [¯\_(ツ)_/¯](https://linktr.ee/bruhtus)
+<!-- > Q: social media? <br>
+> A: [¯\_(ツ)_/¯](https://linktr.ee/bruhtus) -->
 
 `everything in my repo comes bundled with failures`
 
