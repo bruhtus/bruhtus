@@ -33,7 +33,7 @@ alt="Platform: linux" />
 </a>
 
 <a href="https://neovim.io/doc/user/vim_diff.html#vim-differences">
-<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-nvim-blue" alt="Editor: nvim">
+<img src="https://img.shields.io/badge/editor-nvim-blue" alt="Editor: nvim">
 </a>
 
 <a href="https://github.com/bruhtus">
