@@ -56,4 +56,4 @@ alt="Visitor" />
 
 ### Python stuff
 - [Pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd) - Implementation of SSD in pytorch to classify pavement distress on video
-- [Instasaver](https://github.com/bruhtus/instasaver) - Combination of instaloader python module and streamlit
+- [Instasaver](https://github.com/bruhtus/instasaver) - Save instagram photos or videos from non-private profile
