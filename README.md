@@ -28,8 +28,8 @@ everything in my repo comes bundled with failures
 <a/> -->
 <p align="center">
 <a href="https://wiki.archlinux.org/index.php/installation_guide">
-<img src="https://img.shields.io/badge/platform-%20GNU/Linux-blue"
-alt="Platform: linux" />
+<img src="https://img.shields.io/badge/platform-GNU/Linux-blue"
+alt="Platform: GNU/Linux" />
 </a>
 
 <a href="https://neovim.io/doc/user/vim_diff.html#vim-differences">
