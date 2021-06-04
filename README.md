@@ -57,3 +57,8 @@ alt="Visitor" />
 ### Python stuff
 - [Pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd) - Implementation of SSD in pytorch to classify pavement distress on video
 - [Instasaver](https://github.com/bruhtus/instasaver) - Save instagram photos or videos from non-private profile
+
+### Personal stuff
+- [Dotfiles](https://github.com/bruhtus/dotfiles) - My GNU/Linux package config and shell script that I use
+- [Dotfiles/.config/nvim](https://github.com/bruhtus/dotfiles/tree/master/.config/nvim) - My neovim config
+- [Package-backup](https://github.com/bruhtus/package-backup) - Arch linux package that I use
