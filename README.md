@@ -62,3 +62,4 @@ alt="Visitor" />
 - [Dotfiles](https://github.com/bruhtus/dotfiles) - My GNU/Linux package config and shell script that I use
 - [Dotfiles/.config/nvim](https://github.com/bruhtus/dotfiles/tree/master/.config/nvim) - My neovim config
 - [Package-backup](https://github.com/bruhtus/package-backup) - Arch linux package that I use
+- [Cv](https://github.com/bruhtus/cv) - My curriculum vitae
