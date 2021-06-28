@@ -43,6 +43,11 @@ alt="Visitor" />
 </p>
 <!-- [![GitHub Game of Life](https://github4life.herokuapp.com/bruhtus.gif?z=6)](https://github4life.herokuapp.com/bruhtus) -->
 <hr/>
+<p align="center">
+<code>
+if life didn't get in the way of my side project(s), what would i have to blame for not finishing it?
+</code>
+</p>
 
 ### Shell stuff
 - [Pyv](https://github.com/bruhtus/pyv) - Minimalist python venv management tool
