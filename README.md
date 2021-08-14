@@ -54,10 +54,11 @@ if life didn't get in the way of my side project(s), what would i have to blame 
 - [Scripts](https://github.com/bruhtus/scripts) - Collections of experimental shell script
 
 ### Vim stuff
-- [Vim-simpbuf](https://github.com/bruhtus/vim-simpbuf) - Simple vim buffer management
-- [Vim-simpmark](https://github.com/bruhtus/vim-simpmark) - Simple vim plugin to manage mark
-- [Vim-simpsplit](https://github.com/bruhtus/vim-simpsplit) - Simple vim split management
+- [Vim-groot](https://github.com/bruhtus/vim-peek) - Toggle between git root and file directory as current working directory in vim
 - [Vim-peek](https://github.com/bruhtus/vim-peek) - Take a peek at given line number in vim
+- [Vim-simpsplit](https://github.com/bruhtus/vim-simpsplit) - Simple vim split management
+- [Vim-simpmark](https://github.com/bruhtus/vim-simpmark) - Simple vim plugin to manage mark
+- [Vim-simpbuf](https://github.com/bruhtus/vim-simpbuf) - Simple vim buffer management
 
 ### Python stuff
 - [Pavement_distress_ssd](https://github.com/bruhtus/pavement_distress_ssd) - Implementation of SSD in pytorch to classify pavement distress on video
