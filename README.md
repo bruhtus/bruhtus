@@ -68,4 +68,4 @@ if life didn't get in the way of my side project(s), what would i have to blame 
 - [Dotfiles](https://github.com/bruhtus/dotfiles) - My GNU/Linux package config and shell script that I use
 - [Dotfiles/.config/nvim](https://github.com/bruhtus/dotfiles/tree/master/.config/nvim) - My neovim config
 - [Package-backup](https://github.com/bruhtus/package-backup) - Arch linux package that I use
-- [Cv](https://github.com/bruhtus/cv) - My curriculum vitae
+- [Resume](https://bruhtus.github.io/resume/) - My resume
