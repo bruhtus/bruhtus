@@ -32,8 +32,8 @@ everything in my repo comes bundled with failures
 alt="Platform: GNU/Linux" />
 </a>
 
-<a href="https://www.vim.org/about.php">
-<img src="https://img.shields.io/badge/editor-vim-blue" alt="Editor: vim">
+<a href="https://github.com/neovim/neovim">
+<img src="https://img.shields.io/badge/editor-nvim-blue" alt="Editor: nvim">
 </a>
 
 <a href="https://github.com/bruhtus">
@@ -67,6 +67,6 @@ if life didn't get in the way of my side project(s), what would i have to blame 
 
 ### Personal stuff
 - [Dotfiles](https://github.com/bruhtus/dotfiles) - My GNU/Linux package config and shell script that I use
-- [Dotfiles/.config/vim](https://github.com/bruhtus/dotfiles/tree/master/.vim) - My vim config
+- [Dotfiles/.config/nvim](https://github.com/bruhtus/dotfiles/tree/master/.config/nvim) - My neovim config
 - [Package-backup](https://github.com/bruhtus/package-backup) - Arch linux package that I use
 - [Resume](https://bruhtus.github.io/resume/) - My resume
