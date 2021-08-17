@@ -32,8 +32,8 @@ everything in my repo comes bundled with failures
 alt="Platform: GNU/Linux" />
 </a>
 
-<a href="https://neovim.io/doc/user/vim_diff.html#vim-differences">
-<img src="https://img.shields.io/badge/editor-nvim-blue" alt="Editor: nvim">
+<a href="https://www.vim.org/about.php">
+<img src="https://img.shields.io/badge/editor-vim-blue" alt="Editor: vim">
 </a>
 
 <a href="https://github.com/bruhtus">
