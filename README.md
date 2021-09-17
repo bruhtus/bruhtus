@@ -54,6 +54,7 @@ if life didn't get in the way of my side project(s), what would i have to blame 
 - [Scripts](https://github.com/bruhtus/scripts) - Collections of experimental shell script
 
 ### Vim stuff
+- [Vim-possession](https://github.com/bruhtus/vim-possession) - Flexible vim session management
 - [Vim-como](https://github.com/bruhtus/vim-como) - Copy or move one line in vim without hassle
 - [Vim-groot](https://github.com/bruhtus/vim-groot) - Toggle between git root and file directory as current working directory in vim
 - [Vim-peek](https://github.com/bruhtus/vim-peek) - Take a peek at given line number in vim
