@@ -1,12 +1,12 @@
 <!-- <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" /> -->
 
 <!-- ```python
-    __               __    __            
+    __               __    __
    / /_  _______  __/ /_  / /___  _______
   / __ \/ ___/ / / / __ \/ __/ / / / ___/
- / /_/ / /  / /_/ / / / / /_/ /_/ (__  ) 
-/_.___/_/   \__,_/_/ /_/\__/\__,_/____/  
-                                         
+ / /_/ / /  / /_/ / / / / /_/ /_/ (__  )
+/_.___/_/   \__,_/_/ /_/\__/\__,_/____/
+
 ``` -->
 
 <!-- > i go normal from time to time 👌 <br>
@@ -32,8 +32,8 @@ everything in my repo comes bundled with failures
 alt="Platform: GNU/Linux" />
 </a>
 
-<a href="https://github.com/neovim/neovim">
-<img src="https://img.shields.io/badge/editor-nvim-blue" alt="Editor: nvim">
+<a href="https://github.com/vim/vim">
+<img src="https://img.shields.io/badge/editor-vim-blue" alt="Editor: vim">
 </a>
 
 <a href="https://github.com/bruhtus">
@@ -71,7 +71,7 @@ if life didn't get in the way of my side project(s), what would i have to blame 
 
 ### Personal stuff
 - [Dotfiles](https://github.com/bruhtus/dotfiles) - My GNU/Linux package config and shell script that I use
-- [Dotfiles/.config/nvim](https://github.com/bruhtus/dotfiles/tree/master/.config/nvim) - My neovim config
-- [Vimrc](https://github.com/bruhtus/vimrc) - Minimalist version of my neovim config
+- [Dotfiles/.vim](https://github.com/bruhtus/dotfiles/tree/master/.vim) - My vim config
+- [Vimrc](https://github.com/bruhtus/vimrc) - Minimalist version of my vim config
 - [Package-backup](https://github.com/bruhtus/package-backup) - Arch linux package that I use
 - [Resume](https://bruhtus.github.io/resume/) - My resume
