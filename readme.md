@@ -12,16 +12,16 @@ everything in my repo comes bundled with failures
 
 <p align="center">
 <a href="https://www.gnu.org/gnu/linux-and-gnu.html">
-<img src="https://img.shields.io/badge/platform-GNU/Linux-blue"
+<img src="https://img.shields.io/badge/platform-GNU/Linux-blue?style=flat-square"
 alt="Platform: GNU/Linux" />
 </a>
 
 <a href="https://github.com/vim/vim">
-<img src="https://img.shields.io/badge/editor-vim-blue" alt="Editor: vim">
+<img src="https://img.shields.io/badge/editor-vim-blue?style=flat-square" alt="Editor: vim">
 </a>
 
 <a href="https://github.com/bruhtus">
-<img src="https://img.shields.io/badge/coverage-69%25-blue" alt="Coverage: 69%">
+<img src="https://img.shields.io/badge/coverage-69%25-blue?style=flat-square" alt="Coverage: 69%">
 </a>
 </p>
 <hr/>
