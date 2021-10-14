@@ -21,8 +21,7 @@ alt="Platform: GNU/Linux" />
 </a>
 
 <a href="https://github.com/bruhtus">
-<img src="https://visitor-badge.glitch.me/badge?page_id=bruhtus.visitor-badge"
-alt="Visitor" />
+<img src="https://img.shields.io/badge/coverage-69%25-blue" alt="Coverage: 69%">
 </a>
 </p>
 <hr/>
