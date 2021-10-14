@@ -21,7 +21,7 @@ alt="Platform: GNU/Linux" />
 </a>
 
 <a href="https://github.com/bruhtus">
-<img src="https://img.shields.io/badge/coverage-69%25-blue?style=flat-square" alt="Coverage: 69%">
+<img src="https://img.shields.io/badge/popularity-low-red?style=flat-square" alt="popularity: 69%">
 </a>
 </p>
 <hr/>
