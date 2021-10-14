@@ -1,17 +1,3 @@
-<!-- <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" /> -->
-
-<!-- ```python
-    __               __    __
-   / /_  _______  __/ /_  / /___  _______
-  / __ \/ ___/ / / / __ \/ __/ / / / ___/
- / /_/ / /  / /_/ / / / / /_/ /_/ (__  )
-/_.___/_/   \__,_/_/ /_/\__/\__,_/____/
-
-``` -->
-
-<!-- > i go normal from time to time 👌 <br>
-> Q: social media? <br>
-> A: [¯\_(ツ)_/¯](https://linktr.ee/bruhtus) -->
 <p align="center">
 <code>
 everything in my repo comes bundled with failures
@@ -23,9 +9,7 @@ everything in my repo comes bundled with failures
 <img width="362" src="https://github-readme-stats.vercel.app/api?username=bruhtus&show_icons=true&hide_border=true&hide_title=true&title_color=81a1c1&icon_color=81a1c1&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default" />
 </a>
 </p>
-<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default">
-<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhtus&layout=compact&hide_border=true&hide_title=true&text_color=22a0f4&bg_color=00000000&count_private=true&theme=default" />
-<a/> -->
+
 <p align="center">
 <a href="https://www.gnu.org/gnu/linux-and-gnu.html">
 <img src="https://img.shields.io/badge/platform-GNU/Linux-blue"
@@ -41,7 +25,6 @@ alt="Platform: GNU/Linux" />
 alt="Visitor" />
 </a>
 </p>
-<!-- [![GitHub Game of Life](https://github4life.herokuapp.com/bruhtus.gif?z=6)](https://github4life.herokuapp.com/bruhtus) -->
 <hr/>
 <p align="center">
 <code>
