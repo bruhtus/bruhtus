@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://www.gnu.org/gnu/linux-and-gnu.html">
-<img src="https://img.shields.io/badge/platform-GNU/Linux-blue?style=flat-square"
-alt="platform: GNU/Linux" />
+<a href="https://www.kernel.org/">
+<img src="https://img.shields.io/badge/platform-linux-blue?style=flat-square"
+alt="platform: linux" />
 </a>
 
 <a href="https://github.com/vim/vim">
