@@ -14,14 +14,17 @@ alt="platform: linux" />
 </p>
 
 <p align="center">
-Hi, I'm Robertus Chris. I speaks bahasa and english. I like to explore the open source community.
+Hi, I'm Robertus Chris. I speaks bahasa and english. I like to explore the open source
+community.
 </p>
 
 <p align="center">
-A friendly reminder, <i>everything in my repo comes bundled with failure</i>, so use it at your own risk.
+For your information, <i>everything in my repo comes bundled with failure</i>, so use it
+at your own risk.
 </p>
 
 <p align="center">
-Now, here comes the question:<br>
-If life didn't get in the way of your side project, what would you have to blame for not finishing it?
+A friendly reminder:<br>
+There's always something to be gained from persistence, even in the face of
+scorn and ridicule.
 </p>
