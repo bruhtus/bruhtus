@@ -14,8 +14,8 @@ alt="platform: linux" />
 </p>
 
 <p align="center">
-Hi, I'm Robertus Chris. I speaks bahasa and english. I like to explore the open source
-community.
+Hi, I'm Robertus Chris. I speaks bahasa and english.
+I have a passion for keeping things simple.
 </p>
 
 <p align="center">
