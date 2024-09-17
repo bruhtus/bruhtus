@@ -15,7 +15,9 @@ alt="platform: linux" />
 
 <p align="center">
 Hi, I'm Robertus Chris. I speaks bahasa and english.
-I have a passion for keeping things simple.
+I have a passion for keeping things simple.<br>
+I'm not the type of person who can do something if I try,
+I'm the type of person who tries until I can do something.
 </p>
 
 <p align="center">
